@@ -27,6 +27,9 @@ Features used:
 Success metrics:
 
    AUPRC: The primary metric to measure the model's performance in handling imbalanced data.
+   
    Precision and Recall: Measure the model's effectiveness in detecting fraud without generating excessive false alarms.
+   
    F1-Score: Balance between precision and recall.
+   
    ROC-AUC: Model’s ability to distinguish between classes.
