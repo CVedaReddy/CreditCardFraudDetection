@@ -24,7 +24,7 @@ Features used:
    Use cross-validation to assess model robustness. Evaluate performance using metrics such as Precision, Recall, F1-Score, and particularly the Area Under 
    the Precision-Recall Curve (AUPRC).
 
-   Success metrics:
+Success metrics:
 
    AUPRC: The primary metric to measure the model's performance in handling imbalanced data.
    Precision and Recall: Measure the model's effectiveness in detecting fraud without generating excessive false alarms.
