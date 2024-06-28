@@ -17,8 +17,7 @@ Features used:
 3. Feature Engineering:
   Utilize the 'Time' and 'Amount' features for additional insights.
 4. Model development:
-   Evaluate various machine learning algorithms (e.g., Logistic Regression, Random Forest, Gradient Boosting, Neural Networks). Address class imbalance 
-   using techniques such as SMOTE (Synthetic Minority Over-sampling Technique) or class weighting. Perform hyperparameter tuning to optimize model 
+   Evaluate various machine learning algorithms (e.g., Logistic Regression, Random Forest, Gradient Boosting). Address class imbalance using techniques such as SMOTE (Synthetic Minority Over-sampling Technique). Perform hyperparameter tuning to optimize model 
    performance.
 5. Model evaluation
    Use cross-validation to assess model robustness. Evaluate performance using metrics such as Precision, Recall, F1-Score, and particularly the Area Under 
